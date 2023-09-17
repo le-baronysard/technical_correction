@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+joblib
+# For uploading files to fastapi
+python-multipart
